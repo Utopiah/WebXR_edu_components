@@ -15,5 +15,5 @@ Learning and teaching about VR in a classroom
 - https://github.com/aframevr/aframe-school/
 - https://fabien.benetou.fr/Events/VRHackatonUtrecht2016
 
-##Ideas
+## Ideas
 - dedicated version of aframevr/aframe-inspector for pedagogical purposes loading this very component list
