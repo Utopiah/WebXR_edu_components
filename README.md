@@ -12,8 +12,13 @@ Learning and teaching about a topic in a traditional classroom but through the m
 
 ## About VR classrom
 Learning and teaching about VR in a classroom
-- https://github.com/aframevr/aframe-school/
-- https://fabien.benetou.fr/Events/VRHackatonUtrecht2016
+- outside of VR
+  - https://github.com/aframevr/aframe-school/
+  - https://learnwebvr.xyz/
+- in VR
+  - https://fabien.benetou.fr/Events/VRHackatonUtrecht2016 (prototype)
+  - https://github.com/Utopiah/aframe-inVR-blocks-based-editor (prototype)
+ 
 
 ## Ideas
 - dedicated version of aframevr/aframe-inspector for pedagogical purposes loading this very component list
