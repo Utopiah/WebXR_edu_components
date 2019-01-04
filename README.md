@@ -1,7 +1,26 @@
 # WebXR_edu_components
-WebXR components for education : listing the best components for education done in WebVR or WebAR. Feel free to do PR with your own suggestions.
+WebXR components for education : listing the best components for education done in WebVR or WebAR. 
+
+### Find your way around the 3 dimensional space
+
+*Navigation/Locomotion*
+  - aframe-teleport-controls: [repo](https://github.com/fernandojsg/aframe-teleport-controls) teleportation with a projected parabolic raycaster
+    - aframe-teleport-extras: [repo](https://github.com/rdub80/aframe-teleport-extras) [demo](https://roland-dubois.github.io/aframe-meetup-nyc/demos/08_A-Frame_island/app/) teleport-controls add-on for cardboard & touch screen (w/o controller)
+  - aframe-extras (checkpoints): [repo](https://github.com/donmccurdy/aframe-extras) [demo](https://webvr.donmccurdy.com/checkpoints/) navigate between hotspots/checkpoint
+
+### Interact and modify content
+
+*Cursors, Buttons & GUIs*
+  - aframe-gui: [repo](https://github.com/rdub80/aframe-gui) [demo]()
+  - aframe-button-controls: [repo](https://github.com/DougReeder/aframe-button-controls) button sample code
+  - aframe-super-hands-component: [repo](https://github.com/wmurphyrd/aframe-super-hands-component) progressively enhanced input controls
+
+
+*Feel free to do PR with your own suggestions.*
 
 - component name: description with URL and examples
+
+
 
 ## As classroom VR
 Learning and teaching about a topic in a virtual reality classroom.
@@ -26,23 +45,6 @@ Learning and teaching about VR in a classroom
 - dedicated version of aframevr/aframe-inspector for pedagogical purposes loading this very component list
 - classroom specific constaints and solutions
   - PWA for offline exercises (example code https://github.com/rdub80/aframe-sPaceWAlk)
-
-
-## Components to get started
-
-### Find your way around the 3 dimensional space
-
-*Navigation/Locomotion*
-  - https://github.com/fernandojsg/aframe-teleport-controls
-    - https://github.com/rdub80/aframe-teleport-extras (cardboard w/o controller)
-  - https://github.com/donmccurdy/aframe-extras (checkpoint-controls)
-
-### Interact and modify content
-
-*Cursors, Buttons & GUIs*
-  - https://github.com/rdub80/aframe-gui
-  - https://github.com/DougReeder/aframe-button-controls
-  - https://github.com/wmurphyrd/aframe-super-hands-component
 
 
 ## Workshops & Sample Code
