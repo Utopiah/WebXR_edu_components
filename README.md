@@ -11,7 +11,7 @@ WebXR components for education : listing the best components for education done 
 ### Interact and modify content
 
 *Cursors, Buttons & GUIs*
-  - **aframe-gui**: [repo](https://github.com/rdub80/aframe-gui) | [demo](https://rdub80.github.io/aframe-gui/examples/index.html)
+  - **aframe-gui**: [repo](https://github.com/rdub80/aframe-gui) | [demo](https://rdub80.github.io/aframe-gui/examples/index.html) User interface framework with customizable input elements
   - **aframe-button-controls**: [repo](https://github.com/DougReeder/aframe-button-controls) button sample code
   - **aframe-super-hands-component**: [repo](https://github.com/wmurphyrd/aframe-super-hands-component) progressively enhanced input controls
 
