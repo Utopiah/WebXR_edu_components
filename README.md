@@ -9,6 +9,7 @@ Learning and teaching about a topic in a virtual reality classroom.
 
 ## In classroom VR
 Learning and teaching about a topic in a traditional classroom but through the means of virtual reality.
+- integration with MOODLE, open source MOOC platform https://twitter.com/utopiah/status/1047711007920070656
 
 ## About VR classrom
 Learning and teaching about VR in a classroom
