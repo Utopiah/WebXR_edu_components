@@ -15,6 +15,7 @@ Learning and teaching about a topic in a traditional classroom but through the m
 Learning and teaching about VR in a classroom
 - outside of VR
   - https://github.com/aframevr/aframe-school/
+  - https://css-tricks.com/minecraft-webvr-html-using-frame/
   - https://learnwebvr.xyz/
 - in VR
   - https://fabien.benetou.fr/Events/VRHackatonUtrecht2016 (prototype)
@@ -23,3 +24,5 @@ Learning and teaching about VR in a classroom
 
 ## Ideas
 - dedicated version of aframevr/aframe-inspector for pedagogical purposes loading this very component list
+- classroom specific constaints and solutions
+  - PWA for offline exercises
