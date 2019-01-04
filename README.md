@@ -4,21 +4,21 @@ WebXR components for education : listing the best components for education done 
 ### Find your way around the 3 dimensional space
 
 *Navigation/Locomotion*
-  - aframe-teleport-controls: [repo](https://github.com/fernandojsg/aframe-teleport-controls) teleportation with a projected parabolic raycaster
-    - aframe-teleport-extras: [repo](https://github.com/rdub80/aframe-teleport-extras) [demo](https://roland-dubois.github.io/aframe-meetup-nyc/demos/08_A-Frame_island/app/) teleport-controls add-on for cardboard & touch screen (w/o controller)
-  - aframe-extras (checkpoints): [repo](https://github.com/donmccurdy/aframe-extras) [demo](https://webvr.donmccurdy.com/checkpoints/) navigate between hotspots/checkpoint
+  - **aframe-teleport-controls**: [repo](https://github.com/fernandojsg/aframe-teleport-controls) teleportation with a projected parabolic raycaster
+    - **aframe-teleport-extras**: [repo](https://github.com/rdub80/aframe-teleport-extras) [demo](https://roland-dubois.github.io/aframe-meetup-nyc/demos/08_A-Frame_island/app/) teleport-controls add-on for cardboard & touch screen (w/o controller)
+  - **aframe-extras (checkpoints)**: [repo](https://github.com/donmccurdy/aframe-extras) [demo](https://webvr.donmccurdy.com/checkpoints/) navigate between hotspots/checkpoints
 
 ### Interact and modify content
 
 *Cursors, Buttons & GUIs*
-  - aframe-gui: [repo](https://github.com/rdub80/aframe-gui) [demo]()
-  - aframe-button-controls: [repo](https://github.com/DougReeder/aframe-button-controls) button sample code
-  - aframe-super-hands-component: [repo](https://github.com/wmurphyrd/aframe-super-hands-component) progressively enhanced input controls
+  - **aframe-gui**: [repo](https://github.com/rdub80/aframe-gui) [demo](https://rdub80.github.io/aframe-gui/examples/index.html)
+  - **aframe-button-controls**: [repo](https://github.com/DougReeder/aframe-button-controls) button sample code
+  - **aframe-super-hands-component**: [repo](https://github.com/wmurphyrd/aframe-super-hands-component) progressively enhanced input controls
 
 
 *Feel free to do PR with your own suggestions.*
 
-- component name: description with URL and examples
+- **component name**: [URL to repo]() [URL to demo/examples]() description of the component
 
 
 
