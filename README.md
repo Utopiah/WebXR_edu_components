@@ -47,4 +47,4 @@ Learning and teaching about VR in a classroom
 
 ## Workshops & Sample Code
 
-	- https://roland-dubois.github.io/aframe-meetup-nyc/
+  - https://roland-dubois.github.io/aframe-meetup-nyc/
