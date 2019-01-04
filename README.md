@@ -25,4 +25,26 @@ Learning and teaching about VR in a classroom
 ## Ideas
 - dedicated version of aframevr/aframe-inspector for pedagogical purposes loading this very component list
 - classroom specific constaints and solutions
-  - PWA for offline exercises
+  - PWA for offline exercises (example code https://github.com/rdub80/aframe-sPaceWAlk)
+
+
+## Components to get started
+
+### Find your way around the 3 dimensional space
+
+*Navigation/Locomotion*
+  - https://github.com/fernandojsg/aframe-teleport-controls
+    - https://github.com/rdub80/aframe-teleport-extras (cardboard w/o controller)
+  - https://github.com/donmccurdy/aframe-extras (checkpoint-controls)
+
+### Interact and modify content
+
+*Cursors, Buttons and GUIs* 
+	- https://github.com/rdub80/aframe-gui
+	- https://github.com/DougReeder/aframe-button-controls
+	- https://github.com/wmurphyrd/aframe-super-hands-component
+
+
+## Workshops and Sample Code
+
+	- https://roland-dubois.github.io/aframe-meetup-nyc/
