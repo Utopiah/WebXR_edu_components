@@ -39,12 +39,12 @@ Learning and teaching about VR in a classroom
 
 ### Interact and modify content
 
-*Cursors, Buttons and GUIs* 
-	- https://github.com/rdub80/aframe-gui
-	- https://github.com/DougReeder/aframe-button-controls
-	- https://github.com/wmurphyrd/aframe-super-hands-component
+*Cursors, Buttons & GUIs*
+  - https://github.com/rdub80/aframe-gui
+  - https://github.com/DougReeder/aframe-button-controls
+  - https://github.com/wmurphyrd/aframe-super-hands-component
 
 
-## Workshops and Sample Code
+## Workshops & Sample Code
 
 	- https://roland-dubois.github.io/aframe-meetup-nyc/
