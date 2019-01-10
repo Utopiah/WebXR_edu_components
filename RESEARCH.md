@@ -1,1 +1,2 @@
-- https://www.researchgate.net/publication/327271891_Verification_of_the_possibility_and_effectiveness_of_experiential_learning_using_HMD-based_immersive_VR_technologies
+- Verification of the possibility and effectiveness of experiential learning using HMD-based immersive VR technologies https://www.researchgate.net/publication/327271891_Verification_of_the_possibility_and_effectiveness_of_experiential_learning_using_HMD-based_immersive_VR_technologies
+- A gender matching effect in learning with pedagogical agents in an immersive virtual reality science simulation https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12335
