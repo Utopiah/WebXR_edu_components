@@ -1,0 +1,1 @@
+- https://www.researchgate.net/publication/327271891_Verification_of_the_possibility_and_effectiveness_of_experiential_learning_using_HMD-based_immersive_VR_technologies
