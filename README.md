@@ -42,6 +42,9 @@ Learning and teaching about VR in a classroom
  
 
 ## Ideas
+- annoted list of 5 min interviews
+- registry curated for education
+- equivalent of the environment component with an interaction part (basically an exercise with score) that could be extensible enough to be a building block for educators
 - dedicated version of aframevr/aframe-inspector for pedagogical purposes loading this very component list
 - classroom specific constaints and solutions
   - PWA for offline exercises (example code https://github.com/rdub80/aframe-sPaceWAlk)
