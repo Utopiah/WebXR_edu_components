@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Exercise template component</title>
+    <meta name="description" content="Exercise template component">
+    <script src="https://aframe.io/releases/0.9.0/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-environment-component@1.1.0/dist/aframe-environment-component.min.js"></script>
+    <script src="aframe-exercise-component.js"></script>
+  </head>
+<script>
+  
+</script>  
+  <body>
+    <a-scene>
+       <a-entity environment></a-entity>
+      
+      <a-entity camera position="0 1.8 0" look-controls>
+        <a-entity cursor="fuse: true; fuseTimeout: 500"
+                  position="0 0 -1"
+                  geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+                  material="color: black; shader: flat">
+        </a-entity>
+      </a-entity>      
+
+      <a-entity id="exercise-instruction" position="-0.5 1.6 -1" text="value: match a sphere with another object of the same color in less than 10seconds"></a-entity>      
+      <a-entity id="exercise-feedback" position="1 1.2 -1"></a-entity>      
+      
+      <a-entity position="0 1 0">
+        <a-sphere exercise-source position="-4 1.25 -5" radius="1.25" color="red" shadow></a-sphere>
+        <a-sphere exercise-source position="0 4.25 -5" radius="1.25" color="green" shadow></a-sphere>
+        <a-sphere exercise-source position="4 1.25 -5" radius="1.25" color="blue" shadow></a-sphere>
+      </a-entity>
+      
+      <a-box exercise-source position="-1 0.5 -3" rotation="0 45 0" color="green" shadow></a-box>
+      <a-cylinder exercise-source position="1 0.75 -3" radius="0.5" height="1.5" color="red" shadow></a-cylinder>
+      <a-plane exercise-source position="0 0.1 -4" rotation="-90 0 0" width="4" height="4" color="blue" shadow></a-plane>
+      
+    </a-scene>
+  </body>
+</html>
