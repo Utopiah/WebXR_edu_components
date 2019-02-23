@@ -1,5 +1,12 @@
 # WebXR_edu_components
-WebXR components for education : listing the best components for education done in WebVR or WebAR. 
+WebXR components for education : listing the best components for education done in WebVR or WebAR.
+
+[Complete setup](https://glitch.com/edit/#!/vr-class-exercise?path=README.md) with :
+- [VR content](https://vr-class-exercise.glitch.me/research/),
+- [statistics of usage in a dedicated database](https://vr-class-exercise.glitch.me/results.html),
+- [adjustments pannel](https://vr-class-exercise.glitch.me/configurator.html),
+- [pedagogical component](https://glitch.com/edit/#!/vr-class-exercise?path=public/aframe-exercise-component.js) (based on the component in this repository),
+- [collaborative environment to edit the project](https://glitch.com/edit/#!/vr-class-exercise?path=README.md).
 
 ### Find your way around the 3 dimensional space
 
@@ -18,7 +25,7 @@ WebXR components for education : listing the best components for education done 
 ### Animate content
 
 *Animation/Multiple Animations* 
-- **aframe-animatioon-component**: [repo] (https://github.com/supermedium/superframe/tree/master/components/animation) An animation component for A-Frame using anime.js.
+- **aframe-animation-component**: [repo] (https://github.com/supermedium/superframe/tree/master/components/animation) An animation component for A-Frame using anime.js. Now part of A-Frame 0.9 core.
 
 *Feel free to do PR with your own suggestions.*
 
